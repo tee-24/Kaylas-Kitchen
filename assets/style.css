@@ -6,13 +6,16 @@
 /* HEADER */
 header {
 background-color: #555555;
-/* color: #CFB53B; */
+min-height: 20vh;
+color: #CFB53B;
 }
 /* MAIN CONTENT */
 main {
     background-color: #ebebeb;
+    min-height: 70vh;
 }
 /* FOOTER */
 footer {
     background-color: #555555;
+    min-height: 10vh;
 }
