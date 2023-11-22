@@ -1,6 +1,12 @@
+/* Asterisk wildcard selector to override default broswer styles */
+ * {
+    margin: 0;
+    box-sizing: border-box;
+ }
 /* HEADER */
 header {
 background-color: #555555;
+/* color: #CFB53B; */
 }
 /* MAIN CONTENT */
 main {
