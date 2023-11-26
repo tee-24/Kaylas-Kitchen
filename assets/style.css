@@ -42,6 +42,7 @@ header div {
 main {
     background-color: #ebebeb;
     flex: 1 0 auto;
+    margin-top: 113px
 }
 
 /* FOOTER */
