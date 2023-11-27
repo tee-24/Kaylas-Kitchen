@@ -48,5 +48,14 @@ main {
 /* FOOTER */
 footer {
     background-color: #555555;
-    
+
+}
+
+footer div {
+    display: flex;
+align-items: center;
+    flex-flow: column wrap;
+}
+footer h4 {
+color: #CFB53B;
 }
