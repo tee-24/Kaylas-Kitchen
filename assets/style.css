@@ -44,6 +44,11 @@ main {
     flex: 1 0 auto;
     margin-top: 113px
 }
+/* MENU PAGE */
+.menu h2, .menu h3 {
+    text-align: center;
+    color: #CFB53B;
+}
 
 /* FOOTER */
 footer {
