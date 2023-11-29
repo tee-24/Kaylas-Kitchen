@@ -11,6 +11,10 @@ body {
     flex-direction: column;
     margin: 0;
 }
+a {
+    text-decoration: none;
+    color: inherit;
+}
 
 /* HEADER */
 header {
@@ -26,10 +30,10 @@ header h1 {
     padding: 0.3em;
 }
 
-header a {
+/* header a {
     text-decoration: none;
     color: inherit;
-}
+} */
 
 header div {
     display: flex;
@@ -45,6 +49,13 @@ main {
     margin-top: 113px
 }
 /* MENU PAGE */
+#menu-nav {
+    display: flex;
+    justify-content: space-around;
+        font-size: 1.3em;
+        padding: 0.5em 0;
+}
+
 .menu h2, .menu h3 {
     text-align: center;
     color: #CFB53B;
