@@ -66,6 +66,12 @@ main {
 .menu h3 {
     padding-top: 6px;
 }
+/* CONTACT PAGE */
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
 
 /* FOOTER */
 footer {
