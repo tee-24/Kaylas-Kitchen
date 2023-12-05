@@ -60,7 +60,9 @@ main {
     font-size: 1.3em;
     padding: 0.5em 0;
 }
-
+#menu-nav a:hover {
+    text-decoration: underline;
+}
 /* MENU HEADINGS */
 .menu h2,
 .menu h3 {
