@@ -41,6 +41,9 @@ header div {
 header div > a:hover {
     color: #ebebeb;
 }
+.active {
+    color: #ebebeb;
+}
 
 /* MAIN CONTENT */
 main {
@@ -88,7 +91,15 @@ form {
     flex-direction: column;
     padding: 2em;
 }
-
+button {
+    width: 5em;
+    align-items: center;
+}
+form div {
+    display: inherit;
+    flex-direction: column;
+    align-items: center;
+}
 
 /* FOOTER */
 footer {
