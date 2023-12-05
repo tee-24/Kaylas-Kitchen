@@ -38,6 +38,9 @@ header div {
     font-size: 1.3em;
     padding: 0.4em 0;
 }
+header div > a:hover {
+    color: #ebebeb;
+}
 
 /* MAIN CONTENT */
 main {
