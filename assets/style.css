@@ -107,6 +107,9 @@ footer p {
     padding-bottom: 4px;
     text-align: center;
 }
+footer a {
+    color: #ebebeb;
+}
 /* Media query: tablets and larger (768px+) */
 @media screen and (min-width:768px) {
     .menu>.menu-items {
