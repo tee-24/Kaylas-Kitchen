@@ -139,7 +139,19 @@ footer a {
         flex-direction: column;
         width: 40%;
     }
-    
+    .menu h2 {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+    .menu h3 {
+        font-size: 25px;
+    }
+    .menu h4 {
+        font-size: 22px;
+    }
+    .menu p {
+        font-size: 20px;
+    }
 }
 
 /* Media query: laptops and larger (992px+) */
