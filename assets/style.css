@@ -129,6 +129,8 @@ footer a {
 @media screen and (min-width:768px) {
     .menu>.menu-items {
         display: flex;
+        justify-content: space-between;
+        padding: 0 1em;
     }
 
     .menu-items>.col1,
@@ -138,10 +140,6 @@ footer a {
         width: 40%;
     }
     
-    .menu-items>.col2 {
-        align-items: flex-start;
-        margin-left: 3em;
-    }
 }
 
 /* Media query: laptops and larger (992px+) */
