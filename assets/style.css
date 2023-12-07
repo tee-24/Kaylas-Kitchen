@@ -55,16 +55,24 @@ main {
     height:200px ;
     width: 100%;
     background: url("../assets/images/intro-img.jpg") no-repeat center center/cover;
+    position: relative;
 }
 .about {
     padding: 1em;
     font-size: 150%;
 }
 h2 {
-    text-align: center;
+    
     color: #CFB53B;
 }
-
+#cover-text {
+    position: absolute;
+    bottom: 10px;
+    right: 15px;
+    font-size: 150%;
+    width: 60%;
+    text-align: right;
+}
 /* MENU PAGE */
 /* NAVIGATION BAR */
 #menu-nav {
