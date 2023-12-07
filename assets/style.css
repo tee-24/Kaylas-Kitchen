@@ -101,6 +101,13 @@ form div {
     flex-direction: column;
     align-items: center;
 }
+/* BACK TO TOP BUTTON */
+#back-to-top {
+    position: fixed;
+    bottom: 13em;
+    right: 2em;
+    padding: 5px;
+}
 
 /* FOOTER */
 footer {
