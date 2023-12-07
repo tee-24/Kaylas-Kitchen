@@ -58,6 +58,11 @@ main {
 }
 .about {
     padding: 1em;
+    font-size: 150%;
+}
+h2 {
+    text-align: center;
+    color: #CFB53B;
 }
 
 /* MENU PAGE */
