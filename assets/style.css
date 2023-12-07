@@ -63,7 +63,7 @@ main {
 
 .about {
     padding: 1em;
-    font-size: 150%;
+    /* font-size: 150%; */
 }
 
 h2 {
@@ -194,6 +194,22 @@ footer a {
         right: 1em;
         font-size: 250%;
         width: 40%;
+    }
+    #part-1, #part-2 {
+        display: flex;
+        align-items: center;
+        margin: 1em 0;
+    }
+    #part-2 {
+        flex-direction: row-reverse;
+    }
+    #pasta-img, #pizza-img {
+        width: 50%;
+        height: 300px;
+    }
+    .about {
+        width: 50%;
+        font-size: 150%;
     }
 
     /* MENU PAGE */
