@@ -48,6 +48,15 @@ header div > a:hover {
 main {
     background-color: #ebebeb;
     flex: 1 0 auto;
+    
+}
+/* ABOUT PAGE */
+#intro {
+    height:200px ;
+    width: 100%;
+    background: url("../assets/images/intro-img.jpg") no-repeat center center/cover;
+}
+.about {
     padding: 1em;
 }
 
