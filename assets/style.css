@@ -153,6 +153,19 @@ form div {
     right: 2em;
     padding: 5px;
 }
+/* THANK YOU PAGE */
+.thank-you h1 {
+    text-align: center;
+    padding: 2em;
+    font-size: 200%;
+}
+.thank-you p {
+    text-align: center;
+    font-size: 150%;
+}
+.thank-you a {
+    text-decoration: underline;
+}
 
 /* FOOTER */
 footer {
