@@ -48,9 +48,9 @@ header div>a:hover {
 
 /* MAIN CONTENT */
 main {
-    background-color: #ebebeb;
+    background-color: #141414;
     flex: 1 0 auto;
-
+    color: #ebebeb;
 }
 
 /* ABOUT PAGE */
@@ -67,7 +67,7 @@ main {
 
 h2 {
 
-    color: #CFB53B;
+    color: #E2BA08;
 }
 
 #cover-text {
@@ -151,9 +151,12 @@ form div {
     position: fixed;
     bottom: 13em;
     right: 2em;
-    padding: 5px;
 }
 /* THANK YOU PAGE */
+.thank-you {
+    background: #ebebeb;
+    color: #141414;
+}
 .thank-you h1 {
     text-align: center;
     padding: 2em;
@@ -215,6 +218,7 @@ footer a {
     }
     #part-2 {
         flex-direction: row-reverse;
+        margin-bottom: 2em;
     }
     #pasta-img, #pizza-img {
         width: 50%;
