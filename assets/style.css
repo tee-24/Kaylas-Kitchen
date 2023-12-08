@@ -19,8 +19,8 @@ a {
 
 /* HEADER */
 header {
-    background-color: #555555;
-    color: #CFB53B;
+    background-color: #141414;
+    color: #E2BA08;
     width: 100%;
 }
 
@@ -175,10 +175,12 @@ footer h4 {
 footer p {
     padding-bottom: 4px;
     text-align: center;
+    color: #ebebeb;
 }
 
 footer a {
     color: #ebebeb;
+    text-decoration: underline;
 }
 
 /* Media query: tablets and larger (768px+) */
