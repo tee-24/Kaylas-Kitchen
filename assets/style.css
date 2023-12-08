@@ -255,10 +255,27 @@ footer a {
     .menu p {
         font-size: 20px;
     }
+    /* THANK YOU PAGE */
+    .thank-you h1 {
+        font-size: 250%;
+    }
+    .thank-you p {
+        font-size: 250%;
+    }
 }
 
 /* Media query: laptops and larger (992px+) */
 @media screen and (min-width:992px) {
+
+     /* THANK YOU PAGE */
+     .thank-you h1 {
+        font-size: 400%;
+        padding: 1em;
+    }
+    .thank-you p {
+        font-size: 250%;
+        margin-top: 1em;
+    }
 
     /* FOOTER */
     #footer-content {
