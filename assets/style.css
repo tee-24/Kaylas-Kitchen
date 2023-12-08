@@ -63,7 +63,6 @@ main {
 
 .about {
     padding: 1em;
-    /* font-size: 150%; */
 }
 
 h2 {
@@ -157,7 +156,7 @@ form div {
 
 /* FOOTER */
 footer {
-    background-color: #555555;
+    background-color: #141414;
     padding: 8px;
 }
 
@@ -168,7 +167,7 @@ footer div {
 }
 
 footer h4 {
-    color: #CFB53B;
+    color: #E2BA08;
     padding-bottom: 2px;
 }
 
