@@ -122,7 +122,7 @@ h2 {
 
 /* MENU CONTENT */
 .menu-items {
-    padding: 1em 0;
+    padding: 1em;
 }
 
 .menu-items div {
@@ -198,7 +198,6 @@ footer a {
     #part-1, #part-2 {
         display: flex;
         align-items: center;
-        margin: 1em 0;
     }
     #part-2 {
         flex-direction: row-reverse;
@@ -216,7 +215,7 @@ footer a {
     .menu>.menu-items {
         display: flex;
         justify-content: space-between;
-        padding: 0 1em;
+        padding: 1em;
     }
 
     .menu-items>.col1,
