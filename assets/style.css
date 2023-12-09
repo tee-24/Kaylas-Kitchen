@@ -98,6 +98,7 @@ h2 {
     justify-content: space-around;
     font-size: 1.3em;
     padding: 0.5em 0;
+    /* background-color: #5A5A5A; */
 }
 
 #menu-nav a:hover {
@@ -117,6 +118,7 @@ h2 {
 
 .menu h2 {
     margin: 10px 0;
+    text-decoration: underline;
 }
 
 /* MENU CONTENT */
@@ -245,7 +247,6 @@ footer a {
 
     .menu h2 {
         font-size: 30px;
-        text-decoration: underline;
     }
 
     .menu h3 {
