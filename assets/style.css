@@ -128,6 +128,13 @@ h2 {
 .menu-items div {
     padding-bottom: 10px;
 }
+/* BACK TO TOP BUTTON */
+#back-to-top {
+    position: fixed;
+    bottom: 205px;
+    right: 1em;
+    font-size: 20px;
+}
 
 /* CONTACT PAGE */
 form {
@@ -145,13 +152,6 @@ form div {
     display: inherit;
     flex-direction: column;
     align-items: center;
-}
-
-/* BACK TO TOP BUTTON */
-#back-to-top {
-    position: fixed;
-    bottom: 13em;
-    right: 2em;
 }
 
 /* THANK YOU PAGE */
@@ -284,6 +284,11 @@ footer a {
 
 /* Media query: laptops and larger (992px+) */
 @media screen and (min-width:992px) {
+
+    /* MENU PAGE */
+    #back-to-top {
+        bottom: 100px;
+    }
 
     /* THANK YOU PAGE */
     .thank-you h1 {
