@@ -251,6 +251,8 @@ footer a {
 
     .menu h3 {
         font-size: 25px;
+        text-align: start;
+        padding-left: 16px;
     }
 
     .menu h4 {
