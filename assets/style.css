@@ -55,7 +55,7 @@ main {
 
 /* ABOUT PAGE */
 #intro {
-    height: 200px;
+    height: 230px;
     width: 100%;
     background: url("../assets/images/intro-img.jpg") no-repeat center center/cover;
     position: relative;
@@ -66,13 +66,12 @@ main {
 }
 
 h2 {
-
     color: #E2BA08;
 }
 
 #cover-text {
     position: absolute;
-    bottom: 10px;
+    bottom: 6px;
     right: 15px;
     font-size: 150%;
     width: 60%;
@@ -154,20 +153,24 @@ form div {
     bottom: 13em;
     right: 2em;
 }
+
 /* THANK YOU PAGE */
 .thank-you {
     background: #ebebeb;
     color: #141414;
 }
+
 .thank-you h1 {
     text-align: center;
     padding: 2em;
     font-size: 200%;
 }
+
 .thank-you p {
     text-align: center;
     font-size: 150%;
 }
+
 .thank-you a {
     text-decoration: underline;
 }
@@ -214,18 +217,24 @@ footer a {
         font-size: 250%;
         width: 40%;
     }
-    #part-1, #part-2 {
+
+    #part-1,
+    #part-2 {
         display: flex;
         align-items: center;
     }
+
     #part-2 {
         flex-direction: row-reverse;
         margin-bottom: 2em;
     }
-    #pasta-img, #pizza-img {
+
+    #pasta-img,
+    #pizza-img {
         width: 50%;
         height: 300px;
     }
+
     .about {
         width: 50%;
         font-size: 150%;
@@ -262,10 +271,12 @@ footer a {
     .menu p {
         font-size: 20px;
     }
+
     /* THANK YOU PAGE */
     .thank-you h1 {
         font-size: 250%;
     }
+
     .thank-you p {
         font-size: 250%;
     }
@@ -274,11 +285,12 @@ footer a {
 /* Media query: laptops and larger (992px+) */
 @media screen and (min-width:992px) {
 
-     /* THANK YOU PAGE */
-     .thank-you h1 {
+    /* THANK YOU PAGE */
+    .thank-you h1 {
         font-size: 400%;
         padding: 1em;
     }
+
     .thank-you p {
         font-size: 250%;
         margin-top: 1em;
