@@ -176,6 +176,11 @@ form div {
 .thank-you a {
     text-decoration: underline;
 }
+/* CONTACT PAGE */
+#contact-form {
+    display: flex;
+    justify-content: center;
+}
 
 /* FOOTER */
 footer {
