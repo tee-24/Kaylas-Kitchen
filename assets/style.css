@@ -134,6 +134,7 @@ h2 {
 .menu-items div {
     padding-bottom: 10px;
 }
+
 /* BACK TO TOP BUTTON */
 #back-to-top {
     position: fixed;
@@ -182,6 +183,7 @@ form div {
 .thank-you a {
     text-decoration: underline;
 }
+
 /* CONTACT PAGE */
 #contact-form {
     display: flex;
