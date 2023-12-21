@@ -138,7 +138,7 @@ h2 {
 /* BACK TO TOP BUTTON */
 #back-to-top {
     position: fixed;
-    bottom: 205px;
+    bottom: 20px;
     right: 1em;
     font-size: 20px;
 }
@@ -299,11 +299,6 @@ footer a {
 
 /* Media query: laptops and larger (992px+) */
 @media screen and (min-width:992px) {
-
-    /* MENU PAGE */
-    #back-to-top {
-        bottom: 100px;
-    }
 
     /* THANK YOU PAGE */
     .thank-you h1 {
