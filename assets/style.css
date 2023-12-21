@@ -157,6 +157,11 @@ button {
     text-align: center;
 }
 
+button:hover {
+    background-color: black;
+    color: white;
+}
+
 form div {
     display: inherit;
     flex-direction: column;
