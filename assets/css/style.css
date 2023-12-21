@@ -137,6 +137,11 @@ img {
 }
 
 /* CONTACT PAGE */
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
 #contact-form {
     display: flex;
     justify-content: center;
