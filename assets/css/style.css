@@ -63,7 +63,7 @@ main {
     height: 230px;
     width: 100%;
     background: url("../images/intro-img.jpg") no-repeat center center/cover;
-    position: relative;
+    position: relative
 }
 
 .about {
@@ -85,7 +85,7 @@ h2 {
 }
 
 img {
-    background: no-repeat center center/cover;
+    background: no-repeat center bottom/cover;
     height: 200px;
     width: 100%;
 }
@@ -233,7 +233,7 @@ footer a {
     /* ABOUT PAGE */
     #intro {
         height: 400px;
-        background: url("../assets/images/intro-img.jpg") no-repeat center bottom/cover;
+        background: url("../images/intro-img.jpg") no-repeat center bottom/cover;
     }
 
     #cover-text {
