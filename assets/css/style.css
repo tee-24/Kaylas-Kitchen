@@ -195,6 +195,24 @@ form div {
     justify-content: center;
 }
 
+/* 404 ERROR PAGE */
+.error {
+    text-align: center;
+}
+
+.error a {
+    text-decoration: underline;
+}
+
+.error h1 {
+    padding: 1em;
+}
+
+.error-img {
+    width: 40%;
+    margin-top: 2em;
+}
+
 /* FOOTER */
 footer {
     background-color: #141414;
