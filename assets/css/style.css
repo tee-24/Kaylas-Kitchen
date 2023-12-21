@@ -62,7 +62,7 @@ main {
 #intro {
     height: 230px;
     width: 100%;
-    background: url("../assets/images/intro-img.jpg") no-repeat center center/cover;
+    background: url("../images/intro-img.jpg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -84,16 +84,10 @@ h2 {
     text-align: right;
 }
 
-#pasta-img {
-    background: url("../assets/images/pasta.jpg") no-repeat center center/cover;
+img {
+    background: no-repeat center center/cover;
     height: 200px;
-    width: auto;
-}
-
-#pizza-img {
-    background: url("../assets/images/pizza.jpg") no-repeat center center/cover;
-    height: 200px;
-    width: auto;
+    width: 100%;
 }
 
 /* MENU PAGE */
@@ -103,7 +97,6 @@ h2 {
     justify-content: space-around;
     font-size: 1.3em;
     padding: 0.5em 0;
-    /* background-color: #5A5A5A; */
 }
 
 #menu-nav a:hover {
@@ -144,10 +137,9 @@ h2 {
 }
 
 /* CONTACT PAGE */
-form {
+#contact-form {
     display: flex;
-    flex-direction: column;
-    padding: 2em;
+    justify-content: center;
 }
 
 button {
@@ -187,12 +179,6 @@ form div {
 
 .thank-you a {
     text-decoration: underline;
-}
-
-/* CONTACT PAGE */
-#contact-form {
-    display: flex;
-    justify-content: center;
 }
 
 /* 404 ERROR PAGE */
@@ -267,8 +253,7 @@ footer a {
         margin-bottom: 2em;
     }
 
-    #pasta-img,
-    #pizza-img {
+    img {
         width: 50%;
         height: 300px;
     }
