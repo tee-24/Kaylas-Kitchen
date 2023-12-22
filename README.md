@@ -49,6 +49,8 @@ The website consists of 5 pages, 3 of which are accessible from the navigation m
 
 * All Pages on the website have:
 
+  * Favicon - This will provide an image in the the tab's header to allow the user to easily identify the website if they have multiple tabs open. The fork and knife with plate emoji was chosen as it matched the theme of the website.
+
   * A responsive header containing the logo which is centered and is linked to the About page.
 
   * A responsive navigation bar in the header, under the logo, which allows the user to navigate through the site. The color of the text in the navigation bar changes to white when the mouse hovers over it.
