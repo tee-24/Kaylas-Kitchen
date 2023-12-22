@@ -22,6 +22,14 @@ You can view the live site here - [Kayla's Kitchen](https://tee-24.github.io/Kay
 * To sell the business to the user in a warm, friendly, and inviting manner
 
 ## Design
+### Color Scheme
+The final color scheme chosen was black and gold with an off-white text.
+
+### Typography 
+There were three types of fonts chosen for this website: 
+* Playball was used for the logo
+* Marck Script was used for the cover text and menu headings 
+* Titillium Web was used for the body of the text
 
 ### Wireframes
 The design and structure for this website was created in Balsamiq wireframes. The designs produced for each page were for mobile and desktop versions only. The final designs and structure differ from the wireframes due to developments during the construction of the website.
@@ -217,9 +225,11 @@ To fully test my website I performed the following testing using a number of bro
 * Favicon was sourced from [Favicon Generator](favicon.io)
 * All images were sourced from [Pexels](https://www.pexels.com/)
 * Images were compressed by [iLoveIMG](https://www.iloveimg.com/) and [Tiny PNG](https://tinypng.com/)
+* Menu and About content were generated using MyAI, the virtual friend inside Snapchats
 * Meta refresh tag was learned from [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)
 * 404 error page was learned via Youtube from [Dee Mc](https://www.youtube.com/watch?v=Jj42_s3KnuM)
 * README was learned from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples?tab=readme-ov-file) and [Gareth McGirr](https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md)
+* [Table to Markdown](https://tabletomarkdown.com/) was used to cnvert Google sheets to Markdown language
 
 ### Acknowledgements
 This site, Kayla's Kitchen, was designed and developed in conjunction with the Full Stack Software Developer Diploma course (ecommerce) at the Code Institute. I would like to thank my mentor, Daisy, the Slack community, and Code Institute for all their support.
