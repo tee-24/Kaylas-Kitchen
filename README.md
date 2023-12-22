@@ -116,8 +116,7 @@ The website consists of 5 pages, 3 of which are accessible from the navigation m
 * CSS3 - Provides the styling for the website
 * Balsamiq - Used to create wireframes for the website
 * Git - For version control
-* Gitpod - Used to develop the website? (started with CA)
-* Visual Studio Code IDE - Used to develop the website
+* Gitpod - Used to develop the website
 * Gitbash - Terminal used to push changes to the GitHub repository
 * GitHub - Used to host and deploy the website
 * Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling
@@ -189,6 +188,22 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 * [404 Error Page-HTML](docs/w3c-validation/404-validation.png)
 * [style.css-CSS](docs/w3c-validation/css-validation.png)
 
+### Full Testing
+To fully test my website I performed the following testing using a number of browsers (google chrome, safari, mozilla firefox) and devices (Macbook Pro 14 inch, iPad Pro 12.9 inch, iPhone 11 pro max).
+
+
+| Test                                         | Action                                                                                                                                                                      | Expected Result                                                                                                                                                                                                                                                   | Pass/Fail |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Test header links go to correct pages        | Click logo in header on each page<br>Click each header link in the navigation bar from each page                                                                            | Logo -> index.html<br>About -> index.html<br>Menu -> menu.html<br>Contact -> contact.html                                                                                                                                                                         | Pass      |
+| Test hover effect on header navigation links | Place mouse over each header link in the navigation bar                                                                                                                     | Text color should turn white                                                                                                                                                                                                                                      | Pass      |
+| Test back to top button                      | Scroll down on About page and click back to top button<br>Scroll down on Menu page and click back to top button                                                             | Scrolls to the top of page                                                                                                                                                                                                                                        | Pass      |
+| Test menu navigation links                   | Click each link in the navigation bar                                                                                                                                       | Lunch -> scrolls down to Lunch menu<br>Dinner -> scrolls down to Dinner menu<br>Dessert -> scrolls down to Dessert menu<br>Wines -> scrolls down to Wine menu                                                                                                     | Pass      |
+| Test hover effect on menu navigation links   | Place mouse over each link in the navigation bar                                                                                                                            | Text should become underlined                                                                                                                                                                                                                                     | Pass      |
+| Test contact form                            | Submit form without filling in any input field<br>Submit form with only a name<br>Submit form with only a name and an email address<br>Submit form with no @ in email field | Form should direct user to fill in name field<br>Form should direct user to fill in email field<br>Form should direct user to fill in textarea field<br>Form should ask user to enter an email address<br>                                                        | Pass      |
+| Test form buttons                            | Fill in name, email, and textarea and click submit button<br>Fill in name, email, and textarea and click reset button                                                       | Form should open thank you page in the same browser window<br>Form should revert back to default                                                                                                                                                                  | Pass      |
+| Test hover effect on form buttons            | Place mouse over each form button                                                                                                                                           | Button background color should turn to black and text color should turn white                                                                                                                                                                                     | Pass      |
+| Test footer links                            | Click phone number<br>Click email address<br>Click social media links                                                                                                       | A window is opened asking which device you would like to call from or opens in phone app<br>A windows popup is displayed asking what application you would like to send a mail from or your default email application is opened<br>Correct links opens in new tab | Pass      |
+
 ### Solved Bugs
 
 1. Fixed header would not allow menu navigation to work correctly as the top of the menu would be hidden by the header. After checking the internet and trying multiple solutions to no avail, I reached out to my mentor who suggested I remove the fixed header and use a back to top button instead.
@@ -198,7 +213,6 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 3. The back to top button appeared too high up on the page because of the large footer. I was able to fix this by positioning the button lower on the page, in the footer.
 
 ## Credits
-
 * Fonts were sourced from [Google Fonts](https://fonts.google.com/)
 * Favicon was sourced from [Favicon Generator](favicon.io)
 * All images were sourced from [Pexels](https://www.pexels.com/)
