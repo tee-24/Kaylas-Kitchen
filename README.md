@@ -122,7 +122,7 @@ The website consists of 5 pages, 3 of which are accessible from the navigation m
 * GitHub - Used to host and deploy the website
 * Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling
 * [Font Awesome](https://fontawesome.com/) - Used to make back-to-top button
-* [iLoveIMG](https://www.iloveimg.com/) - Used to compress images
+* [iLoveIMG](https://www.iloveimg.com/) and [Tiny PNG](https://tinypng.com/) - Used to compress images
 * [Google Fonts](https://fonts.google.com/) - Used to import fonts used on the website
 * [Favicon Generator](favicon.io) - Used to create the favicon for the website
 * [Am I Responsive](http://ami.responsivedesign.is/) - To show the website image on a range of devices
@@ -161,7 +161,23 @@ To clone the Kayla's Kitchen repository:
 ## Testing 
 Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
 
+### Lighthouse Testing
+I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
 
+About Page
+![about](docs/lighthouse-testing/about-lighthouse.png)
+
+Menu Page
+![menu](docs/lighthouse-testing/menu-lighthouse.png)
+
+Contact Page
+![contact](docs/lighthouse-testing/contact-lighthouse.png)
+
+Thank you Page
+![thank-you](docs/lighthouse-testing/thank-you-lighthouse.png)
+
+404 Error Page
+![404](docs/lighthouse-testing/404-lighthouse.png)
 
 ### W3C Validator
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
@@ -186,7 +202,7 @@ The W3C validator was used to validate the HTML on all pages of the website. It 
 * Fonts were sourced from [Google Fonts](https://fonts.google.com/)
 * Favicon was sourced from [Favicon Generator](favicon.io)
 * All images were sourced from [Pexels](https://www.pexels.com/)
-* Images were compressed by [iLoveIMG](https://www.iloveimg.com/)
+* Images were compressed by [iLoveIMG](https://www.iloveimg.com/) and [Tiny PNG](https://tinypng.com/)
 * Meta refresh tag was learned from [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)
 * 404 error page was learned via Youtube from [Dee Mc](https://www.youtube.com/watch?v=Jj42_s3KnuM)
 * README was learned from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples?tab=readme-ov-file) and [Gareth McGirr](https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md)
