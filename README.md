@@ -5,6 +5,22 @@ You can view the live site here - [Kayla's Kitchen](https://tee-24.github.io/Kay
 
 ![responsive](docs/PP1-amIresponsive.png)
 
+## User Experience (UX)
+
+### Target Audience
+* Users that are looking for an Italian Restaurant in Dublin
+* Users who appreciate Italian cuisine and fine dining experiences
+
+### User Stories
+* A user should be able to determine the site's purpose immediately
+* A user should be able to easily and intuitively navigate the site
+* A user should find it easy to contact the restaurant for more information
+
+### Site Aims
+* To offer a clear method to contact the business
+* To provide information on the restaurant
+* To sell the business to the user in a warm, friendly, and inviting manner
+
 ## Design
 
 ### Wireframes
@@ -26,3 +42,4 @@ The design and structure for this website was created in Balsamiq wireframes. Th
 **Reservations page**
 
 ![reservations](docs/reservations-mobile.png)
+
