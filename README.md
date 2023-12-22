@@ -110,3 +110,6 @@ To clone the Kayla's Kitchen repository:
 * Meta refresh tag was learned from [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)
 * 404 error page was learned via Youtube from [Dee Mc](https://www.youtube.com/watch?v=Jj42_s3KnuM)
 * README was learned from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples?tab=readme-ov-file)
+
+### Acknowledgements
+This site, Kayla's Kitchen, was designed and developed in conjunction with the Full Stack Software Developer Diploma course (ecommerce) at the Code Institute. I would like to thank my mentor, Daisy, the Slack community, and Code Institute for all their support.
