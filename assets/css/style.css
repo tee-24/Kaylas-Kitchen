@@ -62,7 +62,7 @@ main {
 #intro {
     height: 230px;
     width: 100%;
-    background: url("../images/intro-img.jpg") no-repeat center center/cover;
+    background: url("../images/intro-img.webp") no-repeat center center/cover;
     position: relative
 }
 
@@ -238,7 +238,7 @@ footer a {
     /* ABOUT PAGE */
     #intro {
         height: 400px;
-        background: url("../images/intro-img.jpg") no-repeat center bottom/cover;
+        background: url("../images/intro-img.webp") no-repeat center bottom/cover;
     }
 
     #cover-text {
