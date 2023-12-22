@@ -51,30 +51,44 @@ The website consists of 5 pages, 3 of which are accessible from the navigation m
 
   * Favicon - This will provide an image in the the tab's header to allow the user to easily identify the website if they have multiple tabs open. The fork and knife with plate emoji was chosen as it matched the theme of the website.
 
+  ![favicon](docs/features/favicon.jpg)
+
   * A responsive header containing the logo which is centered and is linked to the About page.
 
   * A responsive navigation bar in the header, under the logo, which allows the user to navigate through the site. The color of the text in the navigation bar changes to white when the mouse hovers over it.
 
+  ![header](docs/features/header.jpg)
+
   * A responsive footer which is broken down into 3 subsections. The first section contains links to restaurant phone number and email which will open in the phone and mail app respectively. The second section contains the restaurant address. The third section contains social media links to Instagram and Facebook which will open in new tabs. On large screens the subsections are laid out in a columns, however on mobile devices the subsections are stacked vertically.
 
-  
+![footer](docs/features/footer.jpg)
 
 * About Page
   * About Us Section - This section is broken down into 2 subsections and gives users some information on the restaurant. On large screens the subsections are laid out in 2 rows, however on mobile devices the subsections are stacked vertically.
 
   * Back to top button - This will take the user back to the top of the page without needing to scroll.
 
+  ![about](docs/features/about-pg.jpg)
+
 * Menu Page
   * Menu navigation - A responsive navigation bar under the header which allows the user to skip to the different sections of the menu. The text in the navigation bar becomes underlined when the mouse hovers over it.
+
+  ![menu-nav](docs/features/menu-nav.jpg)
 
   * A responsive menu which is split into 2 columns on larger screens but stacked vertically on mobile devices.
 
   * Back to top button - This allows users to return to the navigation menu easily from any point as they scroll down the page.
 
+  ![menu-pg](docs/features/menu-pg.png)
+
 * Contact Page
   * Form - This contains fields for the users name, email address, and a text area for the user to write their message. The user submits the form using the submit button. Users must fill in the name, email and text area fields to be able to submit the form. If they don't a tooltip will guide them to fill in any information they have missed.
 
+![form](docs/features/form.jpg)
+
   * Buttons - When the mouse hovers over the submit and reset buttons, the background color of the button changes to black, and the color of the text changes to white.
+
+![buttons](docs/features/buttons.jpg)
 
 * Thank You Page
   * A message thanks the user for submitting the form and lets them know someone will be in touch soon.
@@ -83,11 +97,15 @@ The website consists of 5 pages, 3 of which are accessible from the navigation m
 
   * Contains a link to go back the the About page if not automatically redirected.
 
+  ![thank-you](docs/features/thank-you-pg.jpg)
+
 * 404 Error Page
 
   * A message tells the user that the requested page cannot be found.
 
   * Contains a link to go back the the About page without needing to use the back button.
+
+  ![404](docs/features/404.jpg)
 
 * Future Implementations
   * Reservation page - The user would be able to make a reservation on the website by filling out a form. The form would contain fields for the user's name and email address, and  allow the user to select the number of guests and the date of the reservation.
@@ -158,7 +176,7 @@ To clone the Kayla's Kitchen repository:
 * Images were compressed by [iLoveIMG](https://www.iloveimg.com/)
 * Meta refresh tag was learned from [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)
 * 404 error page was learned via Youtube from [Dee Mc](https://www.youtube.com/watch?v=Jj42_s3KnuM)
-* README was learned from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples?tab=readme-ov-file)
+* README was learned from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples?tab=readme-ov-file) and [Gareth McGirr](https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md)
 
 ### Acknowledgements
 This site, Kayla's Kitchen, was designed and developed in conjunction with the Full Stack Software Developer Diploma course (ecommerce) at the Code Institute. I would like to thank my mentor, Daisy, the Slack community, and Code Institute for all their support.
