@@ -159,6 +159,9 @@ To clone the Kayla's Kitchen repository:
 8. Press enter
 
 ## Testing 
+Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
+
+
 
 ### W3C Validator
 The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
