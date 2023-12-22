@@ -160,6 +160,16 @@ To clone the Kayla's Kitchen repository:
 
 ## Testing 
 
+### W3C Validator
+The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+
+* [About Page-HTML](docs/w3c-validation/index-validation.png)
+* [Menu Page-HTML](docs/w3c-validation/menu-validation.png)
+* [Contact Page-HTML](docs/w3c-validation/contact-validation.png)
+* [Thank You Page-HTML](docs/w3c-validation/thank-you-validation.png)
+* [404 Error Page-HTML](docs/w3c-validation/404-validation.png)
+* [style.css-CSS](docs/w3c-validation/css-validation.png)
+
 ### Solved Bugs
 
 1. Fixed header would not allow menu navigation to work correctly as the top of the menu would be hidden by the header. After checking the internet and trying multiple solutions to no avail, I reached out to my mentor who suggested I remove the fixed header and use a back to top button instead.
