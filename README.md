@@ -100,3 +100,13 @@ To clone the Kayla's Kitchen repository:
 2. The text on top of the image was not clearly visible on mobile devices because of the light in the image. I was able to fix this by repositioning the image and lowering the text on the image.
 
 3. The back to top button appeared too high up on the page because of the large footer. I was able to fix this by positioning the button lower on the page, in the footer.
+
+## Credits
+
+* Fonts were sourced from [Google Fonts](https://fonts.google.com/)
+* Favicon was sourced from [Favicon Generator](favicon.io)
+* All images were sourced from [Pexels](https://www.pexels.com/)
+* Images were compressed by [iLoveIMG](https://www.iloveimg.com/)
+* Meta refresh tag was learned from [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)
+* 404 error page was learned via Youtube from [Dee Mc](https://www.youtube.com/watch?v=Jj42_s3KnuM)
+* README was learned from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples?tab=readme-ov-file)
