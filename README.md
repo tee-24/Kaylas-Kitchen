@@ -90,3 +90,13 @@ To clone the Kayla's Kitchen repository:
 6. Type 'git clone' into the terminal 
 7.  Paste the link you copied in step 3
 8. Press enter
+
+## Testing 
+
+### Solved Bugs
+
+1. Fixed header would not allow menu navigation to work correctly as the top of the menu would be hidden by the header. After checking the internet and trying multiple solutions to no avail, I reached out to my mentor who suggested I remove the fixed header and use a back to top button instead.
+
+2. The text on top of the image was not clearly visible on mobile devices because of the light in the image. I was able to fix this by repositioning the image and lowering the text on the image.
+
+3. The back to top button appeared too high up on the page because of the large footer. I was able to fix this by positioning the button lower on the page, in the footer.
