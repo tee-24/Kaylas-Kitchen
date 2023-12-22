@@ -43,3 +43,19 @@ The design and structure for this website was created in Balsamiq wireframes. Th
 
 ![reservations](docs/reservations-mobile.png)
 
+## Technologies Used
+
+* HTML5 - Delivers the structure and content for the website
+* CSS3 - Provides the styling for the website
+* Balsamiq - Used to create wireframes for the website
+* Git - For version control
+* Gitpod - Used to develop the website? (started with CA)
+* Visual Studio Code IDE - Used to develop the website
+* Gitbash - Terminal used to push changes to the GitHub repository
+* GitHub - Used to host and deploy the website
+* Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling
+* [Font Awesome](https://fontawesome.com/) - Used to make back-to-top button
+* [iLoveIMG](https://www.iloveimg.com/) - Used to compress images
+* [Google Fonts](https://fonts.google.com/) - Used to import fonts used on the website
+* [Favicon Generator](favicon.io) - Used to create the favicon for the website
+* [Am I Responsive](http://ami.responsivedesign.is/) - To show the website image on a range of devices
